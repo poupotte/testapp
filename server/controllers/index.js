@@ -1,3 +1,3 @@
 module.exports.index = function (req, res, next) {
-  res.send('Hello');
+  res.send('Hello world');
 };
